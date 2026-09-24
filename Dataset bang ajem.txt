@@ -1,0 +1,5 @@
+dataset dari bang ajem (tanpa class sehat)
+https://www.kaggle.com/datasets/nirmalsankalana/rice-leaf-disease-image
+artikelnya
+Deep feature based rice leaf disease identification using support vector machine
+https://www.sciencedirect.com/science/article/abs/pii/S0168169919326997?via%3Dihuba

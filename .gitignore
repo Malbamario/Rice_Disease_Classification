@@ -1,3 +1,5 @@
 /datasets
 /Results
 /.venv
+**/*.h5
+**/*.pkl
